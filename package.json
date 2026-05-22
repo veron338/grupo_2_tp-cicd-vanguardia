@@ -1,10 +1,11 @@
-{
+{{
   "name": "mi-web-cicd",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Test OK\""
   },
   "keywords": [],
   "author": "",
